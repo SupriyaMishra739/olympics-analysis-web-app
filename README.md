@@ -1,5 +1,6 @@
-**#Exploratory Data Analysis of 120 Years of Olympics**
-Project Overview
+## **Exploratory Data Analysis of 120 Years of Olympics**
+
+#Project Overview
 This project involves an exploratory data analysis (EDA) of 120 years of Olympic data, transforming raw statistics into dynamic visualizations to unveil trends in gender, country, and medals.
 
 Features
