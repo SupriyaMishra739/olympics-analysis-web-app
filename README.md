@@ -11,11 +11,11 @@ This project involves an exploratory data analysis (EDA) of 120 years of Olympic
 
 ## **Tools and Technologies**
 
-**Python**: Utilized for data cleaning, processing, and analysis.
-**Streamlit**: Developed an interactive web application to showcase visualizations and insights.
-**PyCharm**: Used as the integrated development environment (IDE) for the project.
+**Python**: Utilized for data cleaning, processing, and analysis.   
+**Streamlit**: Developed an interactive web application to showcase visualizations and insights.   
+**PyCharm**: Used as the integrated development environment (IDE) for the project.   
 
 ## **Project Highlights**
-**Data Cleaning and Transformation**: Transformed raw Olympics data into a structured format suitable for analysis.
-**Visual Insights**: Developed visualizations to uncover trends in gender participation, country performance, and medal achievements.
-**Interactive Application**: Built an interactive Streamlit application for users to explore the data and gain insights.
+**Data Cleaning and Transformation**: Transformed raw Olympics data into a structured format suitable for analysis.   
+**Visual Insights**: Developed visualizations to uncover trends in gender participation, country performance, and medal achievements.   
+**Interactive Application**: Built an interactive Streamlit application for users to explore the data and gain insights.   
