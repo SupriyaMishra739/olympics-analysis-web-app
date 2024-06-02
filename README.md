@@ -5,9 +5,9 @@ This project involves an exploratory data analysis (EDA) of 120 years of Olympic
 
 ## **Features**
 
-**Data Transformation**: Cleaned and processed raw Olympics data for analysis.
-**Dynamic Visualizations**: Created interactive visualizations to highlight key trends and insights.
-**Trend Analysis**: Explored trends in gender participation, country performance, and medal distribution over time.
+**Data Transformation**: Cleaned and processed raw Olympics data for analysis.  
+**Dynamic Visualizations**: Created interactive visualizations to highlight key trends and insights.  
+**Trend Analysis**: Explored trends in gender participation, country performance, and medal distribution over time.  
 
 ## **Tools and Technologies**
 
